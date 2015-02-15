@@ -1,0 +1,47 @@
+#upperNavBar {
+
+margin-top: 2em;
+    margin-left: -16em;
+  
+}
+body {
+background-image:url(assests/bg.jpg)
+}
+
+#mainImg {
+height: 15em;
+width: 35em;
+margin-top: 2em;
+}
+#searhDiv {
+
+margin-left: 20em;
+margin-top: 7em;
+}
+.nava {
+padding-right: 3em;
+}
+
+#imga {
+
+ border-radius: 30px;
+            -moz-border-radius: 30px;
+            -khtml-border-radius: 30px;
+            -webkit-border-radius: 30px;
+}
+
+#bigAssImage {
+
+background-image: url(assests/jum.jpg);
+    margin-top: 3em;
+}
+#main {
+    margin: 0 auto;
+    margin-top: -1ex;
+
+    height: 1500px;
+    width: 80em;
+    
+background-color: white;
+}
+
